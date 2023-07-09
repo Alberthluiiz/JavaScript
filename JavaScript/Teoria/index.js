@@ -1,5 +1,5 @@
-console.log("Hola Mundo");
-
+// Imprimir mensajes en consola
+console.log('Hola Mundo Soy Luis Guillén');
 console.log("By: Alberthluiiz");
 
 
@@ -138,20 +138,25 @@ for(var i = 0 ; i <= 20 ; i++){
     console.log(i)
 }
 
+/* ----- ----- ----- ----- */
 /* Funciones - Conjunto de instrucciones - declaracion con VAR*/
 console.log("");
+console.log("====================");
 console.log("Funciones con Var");
+console.log("====================");
+// Declaracion de variables
 var cafeResultado = "Capuchino";
-
+// Creamos una funciona llamada Cafetera con un parametro
 function cafetera(ingrediente1){
     if(ingrediente1 == "leche"){
         return cafeResultado;
     }
 }
-
+// Impresion de resultado
 var tasa = cafetera("leche");
 console.log(tasa);
 
+/* ----- ----- ----- ----- */
 /* Funciones - Conjunto de instrucciones - declaracion con LET*/
 console.log("");
 console.log("Funciones con let");
