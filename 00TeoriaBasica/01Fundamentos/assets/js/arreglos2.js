@@ -24,15 +24,15 @@ console.log({ juegoBorrador, juegos });
 
 let pos = 1;
 
-console.log(juegos);
+console.log( juegos );
 let juegosBorrados = juegos.splice( pos, 2);
-console.log({juegosBorrados, juegos});
+console.log({ juegosBorrados, juegos });
 
-
+/* Para buscar la posicion de algo */
 let metroidIndex = juegos.indexOf('Metroid');   // CaseSentisive
 console.log({metroidIndex});
 
-// Referencia
+//TODO: Referencia
 
 
 
