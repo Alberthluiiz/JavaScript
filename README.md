@@ -48,5 +48,5 @@ Aquí incluiré algunos proyectos en los que estoy trabajando o he completado:
 
 Si tienes sugerencias, preguntas, o simplemente quieres charlar sobre JavaScript, ¡no dudes en contactarme!
 
-- **Email**: [Luis Guillén](luisguillen290301@gmail.com)
-- **GitHub**: [Alberth Luiiz](https://github.com/Alberthluiiz)
+- **Email**: [luisguillen290301@gmail.com](Luis Guillén)
+- **GitHub**: [https://github.com/Alberthluiiz](Alberth Luiiz)
